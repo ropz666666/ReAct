@@ -1,0 +1,173 @@
+[
+  {
+    "query": "Make me a playlist containing three songs of Mariah Carey and name it 'Love Mariah'"
+  },
+  {
+    "query": "Add the first song of The Dark Side of the Moon in my playback queue"
+  },
+  {
+    "query": "Add Summertime Sadness by Lana Del Rey in my first playlist"
+  },
+  {
+    "query": "Skip to the next track and set the volume to 60"
+  },
+  {
+    "query": "Put the song now being played into My Music"
+  },
+  {
+    "query": "Append the first song of the newest album of my following first artist to my player queue"
+  },
+  {
+    "query": "Follow the artist of the song now playing"
+  },
+  {
+    "query": "Play a song from Taylor Swift's newest album"
+  },
+  {
+    "query": "play me some quiet songs"
+  },
+  {
+    "query": "Follow the artist of the first song recently played"
+  },
+  {
+    "query": "Switch to the next song and set the single track repeat mode"
+  },
+  {
+    "query": "Save Jay Chou's album Mojito"
+  },
+  {
+    "query": "Rename my first playlist to \"My First\""
+  },
+  {
+    "query": "Remove following from the artist of the currently playing music"
+  },
+  {
+    "query": "Pause playback, turn down the volume and resume playing"
+  },
+  {
+    "query": "Add songs from the current playing queue to a new playlist called \"Current\""
+  },
+  {
+    "query": "What is the name of the song I playing right now?"
+  },
+  {
+    "query": "Remove the first album from my music"
+  },
+  {
+    "query": "Show me the albums I saved"
+  },
+  {
+    "query": "Follow the artist of the song which is playing right now."
+  },
+  {
+    "query": "Recommend me some tracks with the same genre of the music currently playing"
+  },
+  {
+    "query": "Append the first track in The Beatle's newest album to my 'My Rock' playlist"
+  },
+  {
+    "query": "Make top tracks of Taylor Swift a new playlist named \"Love Taylor\""
+  },
+  {
+    "query": "Who is my favorite artist?"
+  },
+  {
+    "query": "Give me a song of my favorite artist"
+  },
+  {
+    "query": "Delete all music from my 'My R&B' playlist and rename it as 'Test'"
+  },
+  {
+    "query": "show me the album information of the song currently playing"
+  },
+  {
+    "query": "Pause device 'My PC' if it is now playing something"
+  },
+  {
+    "query": "pause current song and resume it on 'My PC'"
+  },
+  {
+    "query": "show me the name of Maroon 5's newest album"
+  },
+  {
+    "query": "Recommend more artists base on my first following artist"
+  },
+  {
+    "query": "Unfollow the artist of the song now playing and skip to the next song"
+  },
+  {
+    "query": "Follow Taylor Swift"
+  },
+  {
+    "query": "Make my top tracks a new playlist called 'My Top'"
+  },
+  {
+    "query": "Remove the first song from my playlist 'My Rock'"
+  },
+  {
+    "query": "add top songs of the first of my following artist to My Music"
+  },
+  {
+    "query": "Follow all the artists involved in the playlist 'My R&B'"
+  },
+  {
+    "query": "remove the second track from my playlist 'My R&B'"
+  },
+  {
+    "query": "remove the third track from My Music"
+  },
+  {
+    "query": "Follow all the singers involved in the song When You Believe"
+  },
+  {
+    "query": "Skip to the next track"
+  },
+  {
+    "query": "Play my playlist 'My Rock'"
+  },
+  {
+    "query": "Clear my music library and cancel all following singers"
+  },
+  {
+    "query": "Create a new playlist and name it Quiet"
+  },
+  {
+    "query": "Turn down the volume to 20"
+  },
+  {
+    "query": "Set the single track repeat mode"
+  },
+  {
+    "query": "Pause playback, increase volume to 80 and switch to the next song"
+  },
+  {
+    "query": "Play the newest album of BIGBANG"
+  },
+  {
+    "query": "Follow the artist of the album Mojito"
+  },
+  {
+    "query": "Play the third song from my music library and set the single track repeat mode"
+  },
+  {
+    "query": "Create a new playlist named 'BIGBANG' and add a song of BIGBANG to it"
+  },
+  {
+    "query": "Delete all songs from my first playlist"
+  },
+  {
+    "query": "Make my first playlist private"
+  },
+  {
+    "query": "Add album Mojito to my music library"
+  },
+  {
+    "query": "Add the first song from my music library to the playback queue and enable single song repeat mode"
+  },
+  {
+    "query": "What is my user name?"
+  },
+  {
+    "query": "Pause the player"
+  }
+]
